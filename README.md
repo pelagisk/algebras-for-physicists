@@ -41,3 +41,16 @@ eom sy
 ```
 
 To define your own algebra, follow the pattern in these files.
+
+## Credits
+
+I want to thank David Amos and the Haskell community for helpful discussions and help with these basic things.
+
+## License
+
+GNU GPL v3
+
+## Author
+
+The library is written by David Amos and licensed under a BSD3 License
+

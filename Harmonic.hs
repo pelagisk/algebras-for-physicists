@@ -3,7 +3,9 @@
 {-# LANGUAGE FlexibleContexts #-}
 {-# LANGUAGE MultiParamTypeClasses #-}
 
--- |A module defining the algebra of the harmonic oscillator over a field of complex variables
+-- | A module defining the algebra of the harmonic oscillator over a field of complex variables
+-- Note that this is not yet tested!
+
 module Harmonic where
 
 

@@ -3,7 +3,7 @@
 {-# LANGUAGE FlexibleContexts #-}
 {-# LANGUAGE MultiParamTypeClasses #-}
 
--- |A module defining the algebra of SU3 over a field of complex variables
+-- | A module defining the algebra of SU3 over a field of complex variables
 module SU3 where
 
 
