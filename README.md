@@ -52,5 +52,5 @@ BSD3 License, see the file `LICENSE`
 
 ## Author
 
-The library is written by David Amos and licensed under a BSD3 License
+Axel Gagge 2017. The library is written by David Amos and licensed under a BSD3 License.
 
