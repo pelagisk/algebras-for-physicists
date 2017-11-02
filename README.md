@@ -48,7 +48,7 @@ I want to thank David Amos and the Haskell community for helpful discussions and
 
 ## License
 
-GNU GPL v3
+BSD3 License, see the file `LICENSE`
 
 ## Author
 
