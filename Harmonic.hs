@@ -42,7 +42,7 @@ instance Algebra Var HarmonicBasis where
     mult = linear mult'
          where mult' (I, u) = return u
                mult' (u, I) = return u
-               mult' (B, BH) = (-1) *> id' + mult' (BH, B)
+               mult' (B, BH) = id' + mult' (BH, B)
                mult' (B, B) = return (B :^: 2)
                mult' (BH, BH) = return (BH :^: 2)
                mult' (u, v :*: w) | u == v = mult' (u :^: 2, w)
